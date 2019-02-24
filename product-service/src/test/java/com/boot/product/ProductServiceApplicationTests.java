@@ -1,4 +1,4 @@
-package com.epam.boot.product;
+package com.boot.product;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
